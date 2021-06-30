@@ -56,7 +56,7 @@
   </dependencies>
 
   <build>
-    <finalName>com.devops202168.maven.project1</finalName>
+    <finalName>maven.project1</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
